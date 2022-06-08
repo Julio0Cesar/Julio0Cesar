@@ -1,4 +1,4 @@
-### Hi there, i'm Júlio César (Kintiz)
+### Hi, i'm Júlio César (Kintiz)
 
   ##
 

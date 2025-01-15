@@ -1,11 +1,11 @@
 <div align="center">
-  <h2>Hi, i'm Júlio César (Kintiz)</h2>
+  <h2>Hi, i'm Júlio César (Julio0Cesar)</h2>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Kintiz"></a>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kintiz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kintiz&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Julio0Cesar"></a>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Julio0Cesar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Julio0Cesar&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>

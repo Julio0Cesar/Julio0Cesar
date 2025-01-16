@@ -33,6 +33,6 @@ I'm constantly learning and improving my skills, whether it be through my academ
 ### Contact & Social
 
 - 📧 **Email**: [juliocesar70777077@gmail.com](mailto:juliocesar70777077@gmail.com)
-- 🌐 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/júlio-rios-816a17226/)
+- 🌐 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/júlio-rios/)
 - 🧑‍💻 **GitHub**: [Julio0Cesar](https://github.com/Julio0Cesar)
 

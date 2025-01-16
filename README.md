@@ -14,7 +14,7 @@ I'm a passionate software developer currently studying Computer Science at Unifa
 
 I'm constantly learning and improving my skills, whether it be through my academic journey or personal projects.
 
-![Cat Typing GIF](https://media1.tenor.com/m/bCfpwMjfAi0AAAAd/cat-typing.gif)
+![Cat Typing GIF](https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif)
 
 ### Skills & Technologies
 

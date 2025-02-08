@@ -18,10 +18,10 @@ I'm constantly learning and improving my skills, whether it be through my academ
 
 ### Skills & Technologies
 
-- 🖥️ **Programming Languages**: C#, Python, TypeScript
+- 🖥️ **Programming Languages**: C#, TypeScript
 - 🌐 **Web Development**: React, ASP.NET Core
 - 🗄️ **Databases**: MySQL, SQL Server, NoSQL, Firebase
-- 🧑‍💻 **Tools & Technologies**: Docker, Git, GitHub, Visual Studio Code, JetBrains Rider, Selenium, Postman
+- 🧑‍💻 **Tools & Technologies**: Docker, Git, JetBrains Rider, Selenium, Postman
 - 🐧 **Operating Systems**: Linux, Windows
 - 🤖 **Other Interests**: Firmware development, AI, data analysis
 

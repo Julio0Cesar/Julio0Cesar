@@ -4,13 +4,11 @@
 
 <div align="center">
   <a href="https://github.com/Julio0Cesar"></a>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Julio0Cesar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Julio0Cesar&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## About Me
 
-I'm a passionate software developer currently studying Computer Science at Unifacs, with a focus on backend technologies, system programming, and embedded systems. I love exploring new technologies.
+Outside of work, I run tabletop RPG sessions, organizing weekly campaigns with players. I enjoy building systems, writing universes, and improvising during the sessions. I also like cooking, and eyeballing the seasoning is one of my favorite pastimes.
 
 I'm constantly learning and improving my skills, whether it be through my academic journey or personal projects.
 
@@ -18,15 +16,17 @@ I'm constantly learning and improving my skills, whether it be through my academ
 
 ### Skills & Technologies
 
-- 🖥️ **Programming Languages**: C#, TypeScript
-- 🌐 **Web Development**: React, ASP.NET Core
-- 🗄️ **Databases**: MySQL, SQL Server, NoSQL, Firebase
-- 🧑‍💻 **Tools & Technologies**: Docker, Git, JetBrains Rider, Selenium, Postman
-- 🐧 **Operating Systems**: Linux, Windows
-- 🤖 **Other Interests**: Firmware development, AI, data analysis
+- 🖥️ **Programming Languages**: C#, TypeScript  
+- 🌐 **Web Development**: React, Angular, Next.js, ASP.NET Core, WebAPI, MVC  
+- 🗄️ **Databases**: MySQL, SQL Server 
+- 🧪 **Testing Tools**: xUnit, Selenium, Postman  
+- 🧰 **Tools & Technologies**: Docker, Git, CI/CD, JetBrains Rider  
+- 🐧 **Operating Systems**: Linux, Windows (WSL)  
+- 🤖 **Interests**: Firmware development, Artificial Intelligence (AI)  
 
 ### Education
 
+- **Currently studying**: 1th semester of Computer Science at UFBA 🎓
 - **Currently studying**: 6th semester of Computer Science at Unifacs 🎓
 - **Technical degree**: Development of Systems 🎓
 

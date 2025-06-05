@@ -4,6 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/Julio0Cesar"></a>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Julio0Cesar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Julio0Cesar&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## About Me

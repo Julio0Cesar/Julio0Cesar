@@ -22,7 +22,7 @@ I'm constantly learning and improving my skills, whether it be through my academ
 - 🌐 **Web Development**: React, Angular, Next.js, ASP.NET Core, WebAPI, MVC  
 - 🗄️ **Databases**: MySQL, SQL Server 
 - 🧪 **Testing Tools**: xUnit, Selenium, Postman  
-- 🧰 **Tools & Technologies**: Docker, Git, CI/CD, JetBrains Rider  
+- 🧰 **Tools & Technologies**: Docker, Git, CI/CD, Material UI, Redux
 - 🐧 **Operating Systems**: Linux, Windows (WSL)  
 - 🤖 **Interests**: Firmware development, Artificial Intelligence (AI)  
 

@@ -2,8 +2,6 @@
   <h2>Hi, I'm Júlio César (Julio0Cesar)</h2>
 </div>
 
-## About Me
-
 Outside of work, I run tabletop RPG sessions, organizing weekly campaigns with players. I enjoy building systems, writing universes, and improvising during the sessions. I also like cooking, and eyeballing the seasoning is one of my favorite pastimes.
 
 I'm constantly learning and improving my skills, whether it be through my academic journey or personal projects.
